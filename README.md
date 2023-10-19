@@ -3,7 +3,7 @@ Project requirement:
 2. Vagrant
 
 Project explianation:
-The Project is orchestrated around creating two Ubuntu virtual machines using Vagrant which are Master and Slave virtual machines which using the LAMP infrasture (Linux, Apache, mySQL and PHP).
+The Project is orchestrated around creating two Ubuntu virtual machines using Vagrant which are Master and Slave virtual machines which using the LAMP infrastructure (Linux, Apache, mySQL and PHP).
 
 Default configuration on Slave and Master machine:
 The Slave and Master machine has a memory of 1024MB and uses 2 C.P.U from the host machine total RAM.
